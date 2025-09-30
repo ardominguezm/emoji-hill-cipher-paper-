@@ -1,7 +1,7 @@
 # Emoji–Hill Cipher Teaching Activity
 
 This repository provides reproducible materials for the paper:  
-*"Emoji Encryption: Teaching Linear Algebra Concepts for Data Science through Modern Cryptography Applications"* (submitted to *Journal of Statistics and Data Science Education*).
+*"Emoji-Based Cryptography: A Pedagogical Framework for Teaching Linear Algebra in Data Science Education"* (submitted to *Journal of Statistics and Data Science Education*).
 
 ## Overview
 The notebook `examples.ipynb` implements an extended Hill cipher using a hybrid alphabet of letters, digits, and emojis.  
